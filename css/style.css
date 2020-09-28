@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    color: white;
+    background-color: rgb(98, 98, 255);
+    height: 100px;
+    overflow: hidden;
+}
+.facebook{
+    color: white;
+    background-color:  rgb(98, 98, 255);
+    width: 50%;
+    height: 100px;
+    float: left;
+}
+.logininfo{
+    width: 35%;
+    height: 80px;
+    display: flex;
+    float: right;
+    padding-top: 12px;
+}
+h1{
+    font-size: 60px;
+    padding-left: 40px;
+    padding-top: 17px;
+}
+.email{
+    color: white;
+    background-color: rgb(98, 98, 255);
+    width: 35%;
+    height: 80px;
+    float: left;
+}
+.password{
+    color: white;
+    background-color:  rgb(98, 98, 255);
+    width: 35%;
+    height: 80px;
+}
+.login{
+    color: white;
+    background-color:  rgb(85, 85, 185);
+    height: 0px;
+    float: right;
+    margin-top: 28px;
+}
+.loginbutton{
+    padding-top: 4px;
+    padding-left: 6px;
+}
+h5{
+    color: white;
+    background-color: rgb(99, 99, 224);
+    font-size: 16px;
+    font-weight: lighter;
+    padding-left: 
+}
+.content{
+    background-color: rgb(229, 229, 252);
+    width: 1920px;
+    height: 800px;
+    display: flex;
+}
+.add{
+    color: rgb(46, 46, 124);
+    background-color: rgb(229, 229, 252);
+    width: 55%;
+    height: 740px;
+    float: left;
+    padding-top: 60px;
+    padding-left: 80px;
+}
+.signup{
+    width: 38%;
+    height: 800px;
+    float: right;
+    margin-left: 100px;
+    overflow: hidden;
+}
+.signupheading{
+    color:  rgb(49, 49, 105);
+    background-color: rgb(229, 229, 252);
+    width: ;
+    height: 100px;
+    margin-top: 50px;
+}
+h2{
+    font-size: 35px;
+    font-weight: bold;
+}
+h3{
+    font-size: 30px;
+    font-weight: lighter;
+}
+.form{
+    color: rgb(129, 129, 253);
+    background-color: rgb(229, 229, 252);
+    width: 55%;
+    height: 320px;
+    margin-left: 10px;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: lighter;
+}
+.names{
+    padding-left: 50px;
+    background-color: rgb(229, 229, 252);
+}
+.mail{
+    padding-left: 43px;
+    background-color: rgb(229, 229, 252);
+}
+.reenter{
+    background-color: rgb(229, 229, 252);
+}
+.gender{
+    color: rgb(115, 115, 248);
+    background-color: rgb(229, 229, 252);
+    width: 42%;
+    height: 50px;
+    font-size: 25px;
+    display: flex;
+    margin-left: 145px;
+    margin-top: 5px;
+}
+.iam{
+    padding-top: 6px;
+}
+.selectgender{
+    width: 66%;
+    color: rgb(96, 96, 151);
+    background-color: white;
+    padding-top: 6px;
+    padding-left: 15px;
+    margin-left: 10px;
+}
+.lowersection{
+    color: rgb(115, 115, 248);
+    background-color: rgb(229, 229, 252);
+    width: 80%;
+    height: 50px;
+    font-size: 25px;
+    display: flex;
+    margin-left: 95px;
+}
+.birthday{
+    width: 22%;
+    background-color: rgb(229, 229, 252);
+    padding-top: 8px;
+}
+.month{
+    color: rgb(96, 96, 151);
+    background-color: white;
+    width: 33%;
+    margin-left: px;
+    padding-left: 7px;
+    padding-top: 10px;
+}
+.day{
+    color: rgb(96, 96, 151);
+    background-color: white;
+    width: 19%;
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-left: 7px;
+}
+.year{
+    color: rgb(96, 96, 151);
+    background-color: white;
+    width: 24%;
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-left: 7px;
+}
+.button{
+    margin-left: 214px;
+}
+.lastline{
+    background-color:  rgb(229, 229, 252);
+    width: 55%;
+    height: 30px;
+    display: flex;
+    margin-left: 110px;
+    margin-top: 15px;
+}
